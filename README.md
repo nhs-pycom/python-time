@@ -18,9 +18,9 @@ These simple rules for code are called the syntax. This is important as incorrec
 
 ## Today's Lesson:
 
-Try running the python code in this repository. You'll get some nasty looking red text with the word `SyntaxError`. Woops.
+Try running the python code in this repository. You'll get some nasty looking red text with the word `SyntaxError`. Woops. Don't worry though, running into errors in your code happens all the time. Understanding errors and fixing them is integral to learning programming.
 
-To fix this we need to switch to the main.py file (i.e, the python file) in this repository. From there, follow the instructions written in the comments, that is the green text that start with the hash (#) symbol.
+To fix this error we need to switch to the main.py file (i.e, the python file) in this repository. From there, follow the instructions written in the comments, that is the green text that start with the hash (#) symbol.
 
 ## Real-World Application:
 
