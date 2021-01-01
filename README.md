@@ -24,7 +24,7 @@ To fix this error we need to switch to the main.py file (i.e, the python file) i
 
 ## Real-World Application:
 
-The `print` statement can be useful for adding context to your analysis. For example, imagine the results of a calculation is `0.26`, this is not very informative on its own. Insted, we can add text (in the form of a python string) and formatting to these results to give readers a better understanding of the data:
+The `print` statement can be useful for adding context to your analysis. For example, imagine the results of a calculation is `0.26`, this is not very informative on its own. Instead, we can add text (in the form of a python string) and formatting to these results to give readers a better understanding of the data:
 ```
 26% of the GP registered population
 ```
