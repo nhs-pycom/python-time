@@ -1,6 +1,6 @@
 # Python time intro
 
-[![Run code in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/python-time-0.0.1/blob/master/0_0_1_Using_the_print_command.ipynb) 0.1 Using the 'print' command
+[![Run code in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/python-time/blob/master/01_Using_the_print_command.ipynb) 0.1 Using the 'print' command
 
 
 ## About:
