@@ -1,5 +1,7 @@
 # Python time intro
 
+### [Open this repo in Colab](https://colab.research.google.com/github/nhs-pycom)
+
 [![Run code in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhs-pycom/python-time/blob/master/01_Using_the_print_command.ipynb) 0.1 Using the 'print' command
 
 
